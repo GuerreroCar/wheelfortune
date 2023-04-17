@@ -1,0 +1,64 @@
+body {
+  background-image: linear-gradient(to left,#201e6b 10%, #02010b 60%)
+}
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+h1 {
+  font-size: 60px;
+  color: rgb(226, 223, 43);
+  font-family: noteworthy;
+}
+
+.instruction {
+  color: #9783ff;
+}
+
+h2, h4 {
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  color: snow;
+  letter-spacing: 1px;
+}
+
+ul {
+  list-style: none;
+  color: snow;
+  letter-spacing: .5px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+button {
+  color: yellow;
+  background-color: navy;
+  font-size: 20px;
+  border-radius: 4px;
+  width: 175px;
+  height: 45px;
+  margin-top: 20px;
+}
+
+.answer:hover{
+  cursor: pointer;
+  color: rgb(226, 223, 43);
+}
+
+
+/* ============================= */
+/*     Style answers from JS    */
+/* ============================= */
+.correctAnswer{
+  color: green;
+  font-size: 20px;
+}
+.wrong{
+  color: red;
+  font-size: 20px;
+}
