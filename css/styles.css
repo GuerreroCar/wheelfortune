@@ -1,0 +1,18 @@
+
+body {
+    background-image: linear-gradient(to right, #00edff -69%, #0f426f 61%);
+}
+
+h1, h2 {
+    letter-spacing: 1.5px;
+}
+
+.matchBox {
+    margin-top: 15em;
+    text-align: center;
+}
+
+.homeBtn {
+    background-image: linear-gradient(to right, black -16%, #00edff 189%, #0f426f  101%);
+}
+

@@ -1,0 +1,195 @@
+[
+    {
+        "name": "David",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/a22325d6878f146ca6c4058d9a18e28f.jpeg",
+        "scores": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            1,
+            2,
+            3,
+            5,
+            4
+        ]
+    },
+    {
+        "name": "Jesse",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/df76fea227039b241e96550155d9913f.jpeg",
+        "scores": [
+            3,
+            2,
+            3,
+            5,
+            5,
+            2,
+            3,
+            1,
+            2,
+            3
+        ]
+    },
+    {
+        "name": "Kristy",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/3421fbbfceafe8e6bcf6eedd3f48ed56.jpeg",
+        "scores": [
+            3,
+            3,
+            2,
+            2,
+            2,
+            3,
+            5,
+            5,
+            5,
+            3
+        ]
+    },
+    {
+        "name": "Nick",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/48bc14bb512399029aa34dab4ce0ad14.jpeg",
+        "scores": [
+            1,
+            4,
+            2,
+            2,
+            4,
+            4,
+            2,
+            4,
+            2,
+            4
+        ]
+    },
+    {
+        "name": "Charlie",
+        "photo": "https://lightbox.tlm.cloud/uploads/medium/d3070f538666fd0fa403c2872430f743.jpeg",
+        "scores": [
+            1,
+            1,
+            4,
+            3,
+            1,
+            1,
+            2,
+            2,
+            3,
+            2
+        ]
+    },
+    {
+        "name": "Julien",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/f994453be6096f95591c393b78bf235f.jpeg",
+        "scores": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            5,
+            5,
+            5,
+            5,
+            5
+        ]
+    },
+    {
+        "name": "Kat Von D",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/3301f967637035f731c12c3976e5b027.jpeg",
+        "scores": [
+            5,
+            5,
+            5,
+            5,
+            5,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    },
+    {
+        "name": "Joseph G.",
+        "photo": "fdsafdhbfdsgf3333",
+        "scores": [
+            1,
+            3,
+            1,
+            3,
+            1,
+            4,
+            1,
+            4,
+            2,
+            1
+        ],
+        "diff": ""
+    },
+    {
+        "name": "Carlos Guerrero",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/3043b43617fa17f036f56344e08d5b58.jpeg",
+        "scores": [
+            1,
+            2,
+            3,
+            2,
+            5,
+            1,
+            1,
+            1,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "Jonny Rod",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/1c5cde8dd5d3b816028c8648a8d6a388.jpeg",
+        "scores": [
+            1,
+            2,
+            1,
+            3,
+            4,
+            1,
+            1,
+            1,
+            3,
+            5
+        ]
+    },
+    {
+        "name": "Jennifer Guerrero",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/279d3a8754b2305d722c6c11053a706a.jpeg",
+        "scores": [
+            3,
+            3,
+            4,
+            2,
+            2,
+            2,
+            1,
+            2,
+            2,
+            3
+        ]
+    },
+    {
+        "name": "Jerry G",
+        "photo": "https://lightbox.tlm.cloud/uploads/small/944427af3c9f9abee4fbdd193d3450c3.jpeg",
+        "scores": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ]
+    }
+]
